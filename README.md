@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Bohdan 👋
 
-<!--
-**BohdanKrasovskyi/BohdanKrasovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Wroclaw University of Science and Technology** and an aspiring **Software Engineer** focused on backend development, scalable systems, and data-driven applications.
 
-Here are some ideas to get you started:
+I enjoy building reliable software, designing scalable architectures, and solving complex engineering problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Backend & full-stack development  
+- 📊 Data analysis and machine learning  
+- ⚙️ Interested in scalable systems and high-performance applications  
+- 🧠 Passionate about algorithms and problem solving  
+
+I have hands-on experience developing backend services, designing relational databases, and building full-stack applications.
+
+As an **Intern Software Engineer at Itransition**, I worked on backend logic, database design, and admin panel development while collaborating with a professional engineering team.
+
+I also worked on a **research project in time-series forecasting**, building models such as **XGBoost** and **SARIMAX** to analyze and predict electricity consumption using large datasets.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+
+Python • C# • JavaScript • SQL  
+
+**Backend**
+
+ASP.NET Core • REST APIs • PostgreSQL  
+
+**Frontend**
+
+React • JavaScript  
+
+**Tools & Platforms**
+
+Docker • AWS • Git  
+
+---
+
+## 🏆 Competitive Programming
+
+I enjoy solving algorithmic problems and continuously improving my problem-solving skills.
+
+- 🟡 **Guardian rank on LeetCode**
+- 🌍 **Top 1.3% worldwide**
+- 🧠 Strong focus on **algorithms, data structures, and optimization**
+
+LeetCode:  
+https://leetcode.com/u/alco_rythm
+
+---
+
+## 📫 Connect with Me
+
+I’m always open to collaboration, interesting projects, and challenging engineering problems.
