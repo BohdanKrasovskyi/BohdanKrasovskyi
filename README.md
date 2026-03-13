@@ -21,26 +21,6 @@ I also worked on a **research project in time-series forecasting**, building mod
 
 ---
 
-## 🧰 Tech Stack
-
-**Languages**
-
-Python • C# • JavaScript • SQL  
-
-**Backend**
-
-ASP.NET Core • REST APIs • PostgreSQL  
-
-**Frontend**
-
-React • JavaScript  
-
-**Tools & Platforms**
-
-Docker • AWS • Git  
-
----
-
 ## 🏆 Competitive Programming
 
 I enjoy solving algorithmic problems and continuously improving my problem-solving skills.
