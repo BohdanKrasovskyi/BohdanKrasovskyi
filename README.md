@@ -17,6 +17,8 @@ I have hands-on experience developing backend services, designing relational dat
 
 As an **Intern Software Engineer at Itransition**, I worked on backend logic, database design, and admin panel development while collaborating with a professional engineering team.
 
+Currently working in Capgemini as a Software Engineer.
+
 I also worked on a **research project in time-series forecasting**, building models such as **XGBoost** and **SARIMAX** to analyze and predict electricity consumption using large datasets.
 
 ---
